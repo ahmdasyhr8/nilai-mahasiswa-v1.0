@@ -1,1 +1,2 @@
-open main.html for begin
+Indonesian : Buka "main.html" untuk memulai website
+English : Open "main.html" for begin the webiste
